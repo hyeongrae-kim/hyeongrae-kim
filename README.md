@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hi I'm hyeongrae 👋
 ### 👨‍💻 About me
 - Software Maestro 14th <sub><b>(2023.04 ~ 2024.01)</b></sub>
-- Kyungpook National University <sub><b>(2022.03 ~) Transfer from KNU</b></sub>
+- Kyungpook National University <sub><b>(2022.03 ~ 2024.02) Transfer from KNU. Drop out</b></sub>
 - Keimyung University <sub><b>(2018.03 ~ 2022.02) Voluntary Withdrawal</b></sub>
 ### 📚 Stacks
 <div>
