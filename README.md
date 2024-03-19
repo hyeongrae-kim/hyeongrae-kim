@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi I'm hyeongrae 👋
 ### 👨‍💻 About me
-- Basic Five Co-Founder <sub><b>(2024.02 ~ )</b></sub>
+- Basic Five Co-Founder <sub><b>(2024.03 ~ )</b></sub>
 - Software Maestro 14th <sub><b>(2023.04 ~ 2024.01)</b></sub>
 - Kyungpook National University <sub><b>(2022.03 ~ 2024.02) Transfer from KNU. Voluntary Withdrawal</b></sub>
 - Keimyung University <sub><b>(2018.03 ~ 2022.02) Voluntary Withdrawal</b></sub>
